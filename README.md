@@ -1,13 +1,16 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## Trybers and Dragons Project
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Este é um projeto de Sistema de Jogos de Interpretação de Papéis (RPG) desenvolvido em TypeScript, utilizando os princípios da arquitetura SOLID e os princípios de Programação Orientada a Objetos (POO) para garantir um código mais limpo, organizado e escalável.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### SOLID e POO
+Este projeto utiliza os princípios da arquitetura SOLID e os princípios de POO para garantir um código mais limpo, organizado e escalável. Alguns dos princípios aplicados incluem:
+
+Single Responsibility Principle (SRP) - cada classe é responsável por uma única responsabilidade;
+
+Open-Closed Principle (OCP) - as classes são abertas para extensão, mas fechadas para modificação;
+
+Liskov Substitution Principle (LSP) - as classes derivadas podem ser substituídas por suas classes base;
+
+Interface Segregation Principle (ISP) - as interfaces são segregadas em grupos coesos de responsabilidades;
+
+Dependency Inversion Principle (DIP) - as dependências são invertidas e injetadas como interfaces.
