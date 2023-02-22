@@ -14,3 +14,22 @@ Liskov Substitution Principle (LSP) - as classes derivadas podem ser substituíd
 Interface Segregation Principle (ISP) - as interfaces são segregadas em grupos coesos de responsabilidades;
 
 Dependency Inversion Principle (DIP) - as dependências são invertidas e injetadas como interfaces.
+
+___________________________________________________________________________________________________________________________________________________________
+
+## Trybers and Dragons Project
+
+This is a Role Playing Game System (RPG) project developed in TypeScript, using the principles of SOLID architecture and Object Oriented Programming (OOP) principles to ensure a cleaner, more organized and scalable code.
+
+### SOLID and POO
+This project uses the principles of the SOLID architecture and the OOP principles to ensure a cleaner, more organized and scalable code. Some of the applied principles include:
+
+Single Responsibility Principle (SRP) - each class is responsible for a single responsibility;
+
+Open-Closed Principle (OCP) - classes are open to extension but closed to modification;
+
+Liskov Substitution Principle (LSP) - derived classes can be replaced by their base classes;
+
+Interface Segregation Principle (ISP) - interfaces are segregated into cohesive groups of responsibilities;
+
+Dependency Inversion Principle (DIP) - dependencies are inverted and injected as interfaces.
